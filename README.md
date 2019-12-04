@@ -1,4 +1,5 @@
 # unity-handwriting
+![](handwriting.gif)
 EMNIST handwriting recognition for Unity using ML-Agents (https://github.com/Unity-Technologies/ml-agents) and CNN model from https://github.com/Coopss/EMNIST. Might be useful for VR.
 
 ## Instructions
